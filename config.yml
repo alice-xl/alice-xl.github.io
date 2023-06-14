@@ -10,4 +10,18 @@ languages:
         - name: Project
           pageRef: project
           weight: 2
-    
+
+params:
+      homeInfoParams:
+        Title: "About Me"
+        Content: >
+            Hi, my name is Alice Liu.
+            
+            - This is a web page about me 
+
+            - I graduated from Virginia Tech May 2023.
+
+            
+            
+
+            

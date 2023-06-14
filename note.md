@@ -23,3 +23,5 @@ docker run --rm -it \
   hugo server -D
 
   hugo new posts/Publication.md
+
+  hugo new project.md

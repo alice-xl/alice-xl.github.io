@@ -2,3 +2,10 @@ baseURL: http://example.org/
 languageCode: en-us
 title: alice
 theme: hugo-PaperMod
+
+menu:
+  main:
+  - name: Project
+    pageRef: project
+    weight: 2
+    
